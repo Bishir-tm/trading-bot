@@ -32,28 +32,19 @@ The Cryptocurrency Trading Bot is a project designed to enhance the trading expe
 
 1. Clone the repository:
 
-   ```bash
    git clone https://github.com/bishir-tm/trading-bot.git
-   ```
-
-````
 
 2. Install dependencies:
 
-   ```bash
    npm install
-   ```
 
 ## Usage
 
 1. Start the bot:
 
-   ```bash
    npm run dev
-   ```
 
 2. Access the user interface at [http://localhost:5173](http://localhost:5173).
-
 
 ## Screenshots
 
@@ -68,8 +59,4 @@ Contributions are welcome! If you find a bug or have a suggestion, please open a
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
-
 Feel free to customize it further based on your preferences and project specifics!
-```
-````
